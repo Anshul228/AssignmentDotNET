@@ -1,0 +1,39 @@
+@font-face{
+    font-family: extfont;
+    src:url(../font/Aclonica.ttf)
+    
+}
+/*for tab*/
+/* @media screen and (max-width) */
+#main aside{
+    border-right:4px double green;
+    border-left: 4px double green;
+    height: 600px;
+    width:30%;
+    margin-left: 120px;
+    float: left;
+    margin-top: 150px;
+    font-size: xx-large;
+    background: url(../img/ghost.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    border-bottom: 4px double green;
+    /* background-image: radial-gradient(red,green,blue); */
+}
+.main{
+    margin-top: 200px;
+    height: 600px;
+    width: 50%;
+    float: left;
+    column-count: 3;
+    /* background:url(../img/back1.jpg);  */
+    font-family:extfont;   
+    font-size: 15px;
+    color: blueviolet;
+    /*text-shadow: 10px 10px 0.5px black;*/
+    padding-left: 25px;
+    font-size: large;
+    text-align: justify;
+    /* border-bottom: 4px double green; */
+    /* border-right: 4px double green; */
+}

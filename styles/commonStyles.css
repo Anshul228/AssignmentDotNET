@@ -1,0 +1,87 @@
+
+.headersection{
+height:150px;
+width:90%;
+margin-top:40px ;
+margin-left: 60px;
+margin-bottom:2px;
+background-color: rgb(238, 161, 18);
+border-radius: 5px;
+/* background: url(../img/pix.jpg);
+background-repeat:  */
+/* background:url(../img/pix.jpg);
+background-repeat: no-repeat;
+border-radius: 5px; */
+n: top 40px;
+/* text-shadow: 10px 10px 0.5px black; */
+}
+.headersection nav {
+height:40px;
+background-color: solid forestgreen;
+width:90%;
+border-top:4px double green;
+border-bottom:4px double green;
+margin-left: 60px;
+margin-top: 150px;
+ 
+}
+#login{
+    background-color: solid greenyellow;
+}
+nav ul li{
+display: inline;
+margin-right: 10px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 1.5em;
+/* background-image: linear-gradient(yellow,green); */
+
+
+}
+nav ul li a{
+text-decoration:none;
+
+}
+
+nav ul{
+    padding-bottom: 200px;
+}
+ 
+nav ul li:nth-child(4){
+margin-left:650px;
+
+}
+.pagefooter{
+height: 80px;
+width:90%;
+border-top: 4pxdoublegreen;
+margin-left: 60px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 1em;
+text-align: right;
+padding-right: 10px;
+clear: both;
+ 
+}
+/*.headtext{
+   position: fixed;
+  position: absolute;
+  left: 25px;
+
+}*/
+/*.headersection h3{
+    position: absolute;
+    left: 25px;
+}*/
+#h{   
+}
+.headtext{
+    
+    color:rgb(140, 10, 201);
+    padding-top: 25px;
+    padding-left: 400px;
+    font-size: 70px;
+}
+.headersection nav{
+
+    
+}
