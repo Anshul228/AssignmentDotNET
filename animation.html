@@ -1,0 +1,27 @@
+<!-- for animation -->
+<!doctype html>
+<html>
+    <head>
+        <p>above animation</p>
+        <div></div>
+        <p>below animation</p>
+        <style>
+            @keyframes test{
+                /* from{background-color: chartreuse;}
+                to {background-color: darkblue;} */
+                 0%   {background-color: red;}
+                 25%  {background-color: yellow;}
+                 50%  {background-color: blue;}
+                 100% {background-color: green;}
+            }
+            div{
+                width: 150px;
+                height: 150px;
+                background-color: chartreuse;
+                animation-name: test;
+                animation-duration: 2s;
+            }
+        </style>
+    </head>
+</html>
+
